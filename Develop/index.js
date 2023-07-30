@@ -12,6 +12,7 @@ const questions = [
     "License for the project",
     "What does the user need to know",
     "How can the user contribute to the project",
+    "what command should be run to install dependencies"
     ];
 inquirer
     .prompt([
@@ -29,6 +30,11 @@ inquirer
             type: 'input',
             message: questions[2],
             name: 'title',
+        },
+        {
+            type: 'input',
+            message: questions[7],
+            name: 'install',
         },
         {
             type: 'input',
@@ -53,9 +59,8 @@ inquirer
             name:'user_contribution'
         },
     ])
-    .then((response) =>
- 
-        writeToFile("readme.md",generateMD(response))
+    .then((response) => 
+        writeToFile("Sample_readme.md",generateMD(response))
         
     );
 
