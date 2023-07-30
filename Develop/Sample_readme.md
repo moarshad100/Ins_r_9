@@ -1,21 +1,24 @@
-# Professional Readme Generator ![License: GNU](https://img.shields.io/badge/License-GNUGPLv2-Red.svg)
-  https://opensource.org/license/gpl-2-0/
+# Storio ![License: MIT](https://img.shields.io/badge/License-MIT-Blue.svg)
+  https://opensource.org/license/mit/
 
   ##  Table of Contents
+  * <a name="Installation">Installation</a>
   * <a name = "description">Description</a>
   * <a name = "License">License</a>
   * <a name = "Contact">Contact</a>
 
+  ## Installation
+  npm i
+
   ## Description
-  To create a professional readme for our project. 
+  AS A multilingual parent I WANT to be able to translate the stories contained in Aesop's Fables, into a language other than English SO THAT I can read stories with a moral to my child in their mother tongue
 
-  User can contribute to the project as required by the license
+  N/A
 
-  ## Image
-![image](../assets/readmeGen.png)
+  User can contribute according to the license
 
   ## License
-  You may copy and distribute verbatim copies of the Program’s source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice and disclaimer of warranty; keep intact all the notices that refer to this License and to the absence of any warranty; and give any other recipients of the Program a copy of this License along with the Program.
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
 
   ## Contact
   * [E-mail]mo.arshad100@gmail.com
