@@ -76,14 +76,12 @@ function generateMarkdown(data) {
 
   ${data.user_contribution}
 
-
-
   ## License
   ${renderLicenseSection(data.license)}
 
   ## Contact
-  [E-mail]${data.email}
-  [Github]https://github.com/${data.Github}
+  * [E-mail]${data.email}
+  * [Github]https://github.com/${data.Github}
 
 `;
 }

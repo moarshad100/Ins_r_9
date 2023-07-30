@@ -1,28 +1,23 @@
-# Readme Generator ![License: MIT](https://img.shields.io/badge/License-MIT-Blue.svg)
-  https://opensource.org/license/mit/
+# Professional Readme Generator ![License: GNU](https://img.shields.io/badge/License-GNUGPLv2-Red.svg)
+  https://opensource.org/license/gpl-2-0/
 
   ##  Table of Contents
-  * <a name="Installation">Installation</a>
   * <a name = "description">Description</a>
   * <a name = "License">License</a>
   * <a name = "Contact">Contact</a>
 
-  ## Installation
-  npm i 
-
   ## Description
-  Make a good readme file for our project
+  To create a professional readme for our project. 
 
-  nothing
+  User can contribute to the project as required by the license
 
-  can contribute according to the license
-
-
+  ## Image
+![image](../assets/readmeGen.png)
 
   ## License
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
+  You may copy and distribute verbatim copies of the Program’s source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice and disclaimer of warranty; keep intact all the notices that refer to this License and to the absence of any warranty; and give any other recipients of the Program a copy of this License along with the Program.
 
   ## Contact
-  [E-mail]mo.arshad100@gmail.com
-  [Github]https://github.com/moarshad100
+  * [E-mail]mo.arshad100@gmail.com
+  * [Github]https://github.com/moarshad100
 
